@@ -1,0 +1,23 @@
+.leftButton em {
+	float: left;
+	margin-left: 5px;
+	width: 100%;
+}
+
+.leftButton em button {
+	width: 100%;
+	text-align: left;
+}
+
+.clear {
+	clear: both;
+}
+
+/* Icon Classes */
+
+.addfield-icon {
+	background: url(../images/main_window/textfield_add.png) no-repeat !important;
+}
+.removefield-icon {
+	background: url(../images/main_window/textfield_delete.png) no-repeat !important;
+}
